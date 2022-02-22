@@ -1,0 +1,15 @@
+/Users/mayurj/Projects/dotnetcore/dsa/bin/Debug/net6.0/dsa
+/Users/mayurj/Projects/dotnetcore/dsa/bin/Debug/net6.0/dsa.deps.json
+/Users/mayurj/Projects/dotnetcore/dsa/bin/Debug/net6.0/dsa.runtimeconfig.json
+/Users/mayurj/Projects/dotnetcore/dsa/bin/Debug/net6.0/dsa.dll
+/Users/mayurj/Projects/dotnetcore/dsa/bin/Debug/net6.0/ref/dsa.dll
+/Users/mayurj/Projects/dotnetcore/dsa/bin/Debug/net6.0/dsa.pdb
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.csproj.AssemblyReference.cache
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.AssemblyInfoInputs.cache
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.AssemblyInfo.cs
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.csproj.CoreCompileInputs.cache
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.dll
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/ref/dsa.dll
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.pdb
+/Users/mayurj/Projects/dotnetcore/dsa/obj/Debug/net6.0/dsa.genruntimeconfig.cache
